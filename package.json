@@ -1,7 +1,7 @@
 {
-  "name": "midnight-coding-theme",
-  "displayName": "Midnight Coding",
-  "description": "A deep, soft dark theme for late-night coding with colorful syntax highlighting",
+  "name": "eclipse-theme",
+  "displayName": "Eclipse",
+  "description": "An atmospheric dark theme inspired by eclipse shadows for midnight coding",
   "version": "0.0.1",
   "publisher": "my-name",
   "engines": {
@@ -10,7 +10,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Midnight Coding",
+        "label": "Eclipse",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-color.json"
       }
