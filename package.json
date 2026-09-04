@@ -4,6 +4,10 @@
   "description": "An atmospheric dark theme inspired by eclipse shadows, designed for comfortable midnight coding.",
   "version": "1.0.0",
   "publisher": "eclipse-dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shadow-Monarch-33/Eclipse-Theme.git"
+  },
   "icon": "icon.png",
   "license": "MIT",
   "engines": {
