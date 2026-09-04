@@ -1,14 +1,18 @@
-## ABOUT ECLIPSE THEME
+# Eclipse
 
-A deep violet VS Code theme for coding after dark.
+**A deep violet VS Code theme for coding after dark.**
 
-Eclipse theme was specifically designed for midnight coding, especially in an environment with little to no light. It is a dark, atmospheric interface built to stay comfortable when your laptop is the last light left in the room.
+Eclipse was specifically designed for midnight coding, especially in an environment with little to no light. It is a dark, atmospheric interface built to stay comfortable when your laptop is the last light left in the room.
 
 ## THEME PREVIEW
 
-![Eclipse theme Ruby preview](images/eclipse-theme-1.png)
+<p align="center">
+  <img src="images/eclipse-theme-1.png" width="800">
+</p>
 
-![Eclipse theme JS preview](images/eclipse-theme-2.png)
+<p align="center">
+  <img src="images/eclipse-theme-2.png" width="800">
+</p>
 
 ## DESIGN
 
@@ -23,7 +27,7 @@ Syntax colors are intentionally distinct, but kept controlled enough for long co
 - Deep violet editor background
 - Rich, multi-color syntax highlighting
 - Low glare UI designed for dark environments
-- Atmospheric purple focused palette
+- Atmospheric purple-focused palette
 - Designed for long coding sessions
 
 ## INSTALLATION
@@ -45,3 +49,17 @@ After installation:
 2. Search for **Preferences: Color Theme**
 
 3. Select **Eclipse**
+
+## RECOMMENDED
+
+Eclipse is designed for use in low-light and nighttime environments.
+
+For the intended experience:
+
+- Use in a dim or dark environment
+- Keep your display brightness at a comfortable level
+- Pair with a font and editor settings you find comfortable for long sessions
+
+## LICENSE
+
+Eclipse is licensed under the [MIT License](LICENSE).
