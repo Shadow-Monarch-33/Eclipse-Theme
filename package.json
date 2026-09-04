@@ -1,12 +1,26 @@
 {
   "name": "eclipse-theme",
   "displayName": "Eclipse",
-  "description": "An atmospheric dark theme inspired by eclipse shadows for midnight coding",
-  "version": "0.0.1",
-  "publisher": "my-name",
+  "description": "An atmospheric dark theme inspired by eclipse shadows, designed for comfortable midnight coding.",
+  "version": "1.0.0",
+  "publisher": "eclipse-dev",
+  "icon": "icon.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "purple",
+    "violet",
+    "midnight",
+    "eclipse",
+    "coding",
+    "low-light"
+  ],
   "contributes": {
     "themes": [
       {
