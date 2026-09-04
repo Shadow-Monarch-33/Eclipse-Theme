@@ -32,11 +32,21 @@ Syntax colors are intentionally distinct, but kept controlled enough for long co
 
 ## INSTALLATION
 
-### VS CODE MARKETPLACE
+### Open VSX
 
-Search for **Eclipse** in the VS Code Extensions panel and click **Install**.
+Search for **Eclipse** in your editor's Extensions panel and click **Install**.
 
-Or install it directly from the Marketplace.
+Or install it directly from the Open VSX Registry.
+
+### Manual installation
+
+If you're installing from a `.vsix` file:
+
+1. Open your editor
+2. Open the Extensions panel
+3. Click `...`
+4. Select **Install from VSIX...**
+5. Choose the Eclipse `.vsix` file
 
 ### Activate Eclipse
 
@@ -49,6 +59,8 @@ After installation:
 2. Search for **Preferences: Color Theme**
 
 3. Select **Eclipse**
+
+And you're ready for the night.
 
 ## RECOMMENDED
 
