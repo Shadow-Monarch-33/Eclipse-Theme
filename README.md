@@ -7,11 +7,11 @@ Eclipse was specifically designed for midnight coding, especially in an environm
 ## THEME PREVIEW
 
 <p align="center">
-  <img src="images/eclipse-theme-1.png" width="800">
+  <img src="https://raw.githubusercontent.com/Shadow-Monarch-33/Eclipse-Theme/main/images/eclipse-theme-1.png" width="800">
 </p>
 
 <p align="center">
-  <img src="images/eclipse-theme-2.png" width="800">
+  <img src="https://raw.githubusercontent.com/Shadow-Monarch-33/Eclipse-Theme/main/images/eclipse-theme-2.png" width="800">
 </p>
 
 ## DESIGN

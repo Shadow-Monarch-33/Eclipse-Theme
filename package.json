@@ -2,7 +2,7 @@
   "name": "eclipse-theme",
   "displayName": "Eclipse",
   "description": "An atmospheric dark theme inspired by eclipse shadows, designed for comfortable midnight coding.",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "publisher": "eclipse-dev",
   "repository": {
     "type": "git",
