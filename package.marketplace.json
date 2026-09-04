@@ -1,0 +1,37 @@
+{
+  "name": "eclipse-midnight-theme",
+  "displayName": "Eclipse Midnight Theme",
+  "description": "An atmospheric dark theme inspired by eclipse shadows, designed for comfortable midnight coding.",
+  "version": "1.0.3",
+  "publisher": "eclipse-dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shadow-Monarch-33/Eclipse-Theme.git"
+  },
+  "icon": "icon.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "purple",
+    "violet",
+    "midnight",
+    "eclipse",
+    "coding",
+    "low-light"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-color.json"
+      }
+    ]
+  }
+}
