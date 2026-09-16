@@ -1,6 +1,6 @@
 # Eclipse
 
-Two atmospheric dark themes for VS Code: **Eclipse**, the original violet theme, and **Eclipse: Event Horizon**, a near-black theme built around the faint glow of a dying ember.
+Two atmospheric dark themes for VS Code: **Eclipse: Lunar**, the original eclipse theme, and **Eclipse: Solar**, a near-black theme built around the faint glow of a dying ember.
 
 Eclipse was made for coding late at night, especially when your laptop is the main light in the room. Both themes keep the interface dark and restrained while giving syntax enough color to stay easy to read.
 
