@@ -1,0 +1,7 @@
+.vscode/**
+.vscodeignore
+*.vsix
+node_modules/
+.git/**
+images/**
+package.marketplace.json

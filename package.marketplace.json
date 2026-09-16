@@ -1,8 +1,8 @@
 {
   "name": "eclipse-midnight-theme",
   "displayName": "Eclipse Midnight Theme",
-  "description": "An atmospheric dark theme inspired by eclipse shadows, designed for comfortable midnight coding.",
-  "version": "1.0.3",
+  "description": "Two atmospheric dark themes: Eclipse (classic violet shadow) and Eclipse: Event Horizon (ember glow). Designed for comfortable midnight coding.",
+  "version": "1.1.0",
   "publisher": "eclipse-dev",
   "repository": {
     "type": "git",
@@ -23,14 +23,25 @@
     "midnight",
     "eclipse",
     "coding",
-    "low-light"
+    "low-light",
+    "ember",
+    "burnt-orange",
+    "event-horizon",
+    "warm",
+    "black-hole",
+    "atmospheric"
   ],
   "contributes": {
     "themes": [
       {
         "label": "Eclipse",
         "uiTheme": "vs-dark",
-        "path": "./themes/theme-color.json"
+        "path": "./themes/eclipse-color-theme.json"
+      },
+      {
+        "label": "Eclipse: Event Horizon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/event-horizon-color-theme.json"
       }
     ]
   }
