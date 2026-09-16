@@ -29,7 +29,9 @@
     "event-horizon",
     "warm",
     "black-hole",
-    "atmospheric"
+    "atmospheric",
+    "solar",
+    "lunar"
   ],
   "contributes": {
     "themes": [

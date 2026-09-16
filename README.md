@@ -42,7 +42,7 @@ The UI uses subtle differences between surfaces instead of bright borders and he
 
 ## Features
 
-- Two themes in one extension: **Eclipse** and **Eclipse: Event Horizon**
+- Two themes in one extension: **Eclipse: Lunar** and **Eclipse: Solar**
 - Full VS Code UI theming
 - Rich syntax highlighting
 - Dark, low-glare interface
@@ -76,7 +76,7 @@ After installing:
    - **macOS:** `⌘ + Shift + P`
    - **Windows/Linux:** `Ctrl + Shift + P`
 2. Search for **Preferences: Color Theme**
-3. Choose **Eclipse** or **Eclipse: Event Horizon**
+3. Choose **Eclipse: Lunar** or **Eclipse: Solar**
 
 And you're ready for the night.
 

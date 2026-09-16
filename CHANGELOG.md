@@ -2,6 +2,10 @@
 
 All notable changes to **Eclipse Themes** are documented here.
 
+## [1.1.21] - 2026-09-16
+
+- Minor description changes.
+
 ## [1.1.2] - 2026-09-16
 
 - Description refinements.
@@ -13,7 +17,7 @@ All notable changes to **Eclipse Themes** are documented here.
 ## [1.1.0] - 2026-09-16
 
 ### Added
-- Added **Eclipse: Event Horizon**, a new near-black theme with warm ember and burnt-orange accents.
+- Added **Eclipse: Solar**, a new near-black theme with warm ember and burnt-orange accents.
 - Both themes are now included in the same extension.
 
 ### Changed
