@@ -34,14 +34,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Eclipse",
+        "label": "Eclipse: Lunar",
         "uiTheme": "vs-dark",
-        "path": "./themes/eclipse-color-theme.json"
+        "path": "./themes/eclipse-lunar.json"
       },
       {
-        "label": "Eclipse: Event Horizon",
+        "label": "Eclipse: Solar",
         "uiTheme": "vs-dark",
-        "path": "./themes/event-horizon-color-theme.json"
+        "path": "./themes/eclipse-solar.json"
       }
     ]
   }
