@@ -1,14 +1,14 @@
 # Eclipse
 
-Two atmospheric dark themes for VS Code: **Eclipse: Lunar**, the original eclipse theme, and **Eclipse: Solar**, a near-black theme built around the faint glow of a dying ember.
+Three atmospheric dark themes for VS Code: Eclipse: Lunar, Eclipse: Solar, and Eclipse: Blood Moon.
 
-Eclipse was made for coding late at night, especially when your laptop is the main light in the room. Both themes keep the interface dark and restrained while giving syntax enough color to stay easy to read.
+Built for late-night coding, each theme keeps the interface dark and comfortable while giving syntax enough color to stay clear without being distracting.
+
+Choose your atmosphere: lunar, solar, or blood moon.
 
 ## Themes
 
 ### Eclipse: Lunar
-
-The original Eclipse theme.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shadow-Monarch-33/Eclipse-Theme/main/images/eclipse-lunar-1.png" width="800">
@@ -20,8 +20,6 @@ The original Eclipse theme.
 
 ### Eclipse: Solar
 
-A theme inspired by the Solar Eclipse.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shadow-Monarch-33/Eclipse-Theme/main/images/eclipse-solar-1.png" width="800">
 </p>
@@ -30,9 +28,19 @@ A theme inspired by the Solar Eclipse.
   <img src="https://raw.githubusercontent.com/Shadow-Monarch-33/Eclipse-Theme/main/images/eclipse-solar-2.png" width="800">
 </p>
 
+### Eclipse: Blood Moon
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shadow-Monarch-33/Eclipse-Theme/main/images/eclipse-blood-1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shadow-Monarch-33/Eclipse-Theme/main/images/eclipse-blood-2.png" width="800">
+</p>
+
 ## Design
 
-Both themes are built around the same idea: **keep the screen dark without making the code difficult to read.**
+All three themes are built around the same idea: **keep the screen dark without making the code difficult to read.**
 
 The UI uses subtle differences between surfaces instead of bright borders and heavy contrast.
 
@@ -40,9 +48,11 @@ The UI uses subtle differences between surfaces instead of bright borders and he
 
 **Eclipse: Solar** goes much darker, using warm browns and burnt-orange accents against an almost black background.
 
+**Eclipse: Blood Moon** takes a darker, deeper approach, using deep burgundy, crimson, burnt red, and subtle amber accents inspired by a blood moon eclipse against the night sky.
+
 ## Features
 
-- Two themes in one extension: **Eclipse: Lunar** and **Eclipse: Solar**
+- Three themes in one extension: **Eclipse: Lunar**, **Eclipse: Solar** and **Eclipse: Blood Moon**
 - Full VS Code UI theming
 - Rich syntax highlighting
 - Dark, low-glare interface
@@ -76,7 +86,7 @@ After installing:
    - **macOS:** `⌘ + Shift + P`
    - **Windows/Linux:** `Ctrl + Shift + P`
 2. Search for **Preferences: Color Theme**
-3. Choose **Eclipse: Lunar** or **Eclipse: Solar**
+3. Choose **Eclipse: Lunar**, **Eclipse: Solar** or **Eclipse: Blood Moon**
 
 And you're ready for the night.
 

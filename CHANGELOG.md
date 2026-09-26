@@ -2,6 +2,18 @@
 
 All notable changes to **Eclipse Themes** are documented here.
 
+## [1.2.0] - 2026-09-27
+
+### Added
+
+- Added **Eclipse: Blood Moon**, a deep crimson theme.
+- Refined **Eclipse: Lunar** to fix a UI issue.
+
+### Changed
+
+- All three themes are now included in the same extension.
+- Updated extension metadata and README.
+
 ## [1.1.21] - 2026-09-16
 
 - Minor description changes.

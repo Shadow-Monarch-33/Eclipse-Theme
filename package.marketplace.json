@@ -1,8 +1,8 @@
 {
   "name": "eclipse-midnight-theme",
   "displayName": "Eclipse Midnight Theme",
-  "description": "Two galactic dark themes -> Eclipse: Lunar and Eclipse: Solar. Designed for comfortable midnight coding.",
-  "version": "1.1.21",
+  "description": "Three dark themes -> Eclipse: Lunar, Eclipse: Solar and Eclipse: Blood Moon. Designed for comfortable low-light coding.",
+  "version": "1.2.0",
   "publisher": "eclipse-dev",
   "repository": {
     "type": "git",
@@ -31,7 +31,13 @@
     "black-hole",
     "atmospheric",
     "solar",
-    "lunar"
+    "lunar",
+    "blood-moon",
+    "crimson",
+    "burgundy",
+    "ominous",
+    "cinematic",
+    "red"
   ],
   "contributes": {
     "themes": [
@@ -44,6 +50,11 @@
         "label": "Eclipse: Solar",
         "uiTheme": "vs-dark",
         "path": "./themes/eclipse-solar.json"
+      },
+      {
+        "label": "Eclipse: Blood Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eclipse-blood-moon.json"
       }
     ]
   }
